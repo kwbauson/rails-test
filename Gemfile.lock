@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/kwbauson/graphiti-rails-auto.git
-  revision: 96a863b32c4ca67d95dc3249d59fadb21786e56e
+  revision: e25c05da0322843369fa1af23546671ad301416f
   branch: main
   specs:
     graphiti-rails-auto (0.1.0)
@@ -210,16 +210,11 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
-  graphiti
-  graphiti-rails
   graphiti-rails-auto!
-  kaminari
   listen
   puma
   rails
-  responders
   sqlite3
-  vandal_ui
 
 BUNDLED WITH
    2.1.4

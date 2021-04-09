@@ -10,9 +10,5 @@ group :development do
   gem 'listen'
 end
 
-gem 'graphiti'
-gem 'graphiti-rails'
-gem 'vandal_ui'
-gem 'kaminari'
-gem 'responders'
+# gem 'graphiti-rails-auto', path: '/home/keith/src/graphiti-rails-auto'
 gem 'graphiti-rails-auto', github: 'kwbauson/graphiti-rails-auto', branch: 'main'
