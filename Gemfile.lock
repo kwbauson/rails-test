@@ -1,5 +1,7 @@
-PATH
-  remote: /home/keith/src/graphiti-rails-auto
+GIT
+  remote: https://github.com/kwbauson/graphiti-rails-auto.git
+  revision: 96a863b32c4ca67d95dc3249d59fadb21786e56e
+  branch: main
   specs:
     graphiti-rails-auto (0.1.0)
       graphiti
