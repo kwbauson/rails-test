@@ -8,7 +8,6 @@ gem 'bootsnap', require: false
 
 group :development do
   gem 'listen'
-  gem 'spring'
 end
 
 gem 'graphiti'
